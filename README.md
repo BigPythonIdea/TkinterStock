@@ -9,8 +9,6 @@ PyStock by Tkinter
 
 
 
-[TOC]
-
 ## 說明書
 
 1. 進入檔案資料夾更改CSV  👈 改成你想要查詢的股票代號

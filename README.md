@@ -3,8 +3,6 @@
 PyStock by Tkinter
 ===
 
-![build](https://img.shields.io/badge/pip-install%20twstock-green)
-
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django"><br/>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/klas9802/TK1">
 
